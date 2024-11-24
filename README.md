@@ -1,2 +1,2 @@
 # Pipelined-Processor
-Stalling, Forwarding, and Flushing capabilities made in Verilog
+Pipelining a processor for speed and efficiency
